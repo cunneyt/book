@@ -1,0 +1,82 @@
+[
+    {
+        "id": 0,
+        "title": "Kitap 0",
+        "author": "Yazar 0",
+        "category": "Kategori 0",
+        "coverImgUrl": "url",
+        "description": "Sıfır öykü"
+    },
+    {
+        "id": 1,
+        "title": "Kitap 1",
+        "author": "Yazar 1",
+        "category": "Kategori 1",
+        "coverImgUrl": "url",
+        "description": "Bir öykü"
+    },
+    {
+        "id": 2,
+        "title": "Kitap 2",
+        "author": "Yazar 1",
+        "category": "Kategori 1",
+        "coverImgUrl": "url",
+        "description": "İki öykü"
+    },
+    {
+        "id": 3,
+        "title": "Kitap 3",
+        "author": "Yazar 1",
+        "category": "Kategori 2",
+        "coverImgUrl": "url",
+        "description": "Bir öykü"
+    },
+    {
+        "id": 4,
+        "title": "Kitap 4",
+        "author": "Yazar 2",
+        "category": "Kategori 3",
+        "coverImgUrl": "url",
+        "description": "Bir öykü"
+    },
+    {
+        "id": 5,
+        "title": "Kitap 5",
+        "author": "Yazar 3",
+        "category": "Kategori 4",
+        "coverImgUrl": "url",
+        "description": "Bir öykü"
+    },
+    {
+        "id": 6,
+        "title": "Kitap 6",
+        "author": "Yazar 3",
+        "category": "Kategori 2",
+        "coverImgUrl": "url",
+        "description": "Bir öykü"
+    },
+    {
+        "id": 7,
+        "title": "Kitap 7",
+        "author": "Yazar 4",
+        "category": "Kategori 1",
+        "coverImgUrl": "url",
+        "description": "Bir öykü"
+    },
+    {
+        "id": 8,
+        "title": "Kitap 8",
+        "author": "Yazar 5",
+        "category": "Kategori 5",
+        "coverImgUrl": "url",
+        "description": "Bir öykü"
+    },
+    {
+        "id": 9,
+        "title": "Kitap 9",
+        "author": "Yazar 6",
+        "category": "Kategori 6",
+        "coverImgUrl": "url",
+        "description": "Dokuz öykü"
+    }
+]

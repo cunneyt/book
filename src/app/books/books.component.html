@@ -1,0 +1,8 @@
+<select (change)="setSelectedCategory($event)">
+    <option>Hepsi</option>
+    <option *ngFor="let category of categories" [value]="category">{{category}}
+    </option>
+</select>
+<div *ngFor="let book of books| filterByCategory:selectedCategory">
+    <app-book-cover [book]="book" (click)="navigateToDetail(book)"></app-book-cover>
+</div>
